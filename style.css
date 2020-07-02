@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+#name-highlighten{
+    color:deeppink;
+}
+p{
+    color: dimgrey;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+.header{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 700px;
+    overflow: hidden;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,pink,deeppink);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    
+}
+#text{
+    padding: 350px 0 100px 60px;
+    font-stretch: extra-expanded;
+}
+.bio-area{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+}
+#text2{
+    padding-left: 150px;
+    padding-top: 320px;
+    padding-right:100px;
+    padding-bottom:150px ;
+    font-stretch: extra-expanded;
+    text-align: left;
+}
+.one-third{
+    width: 25%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.one-third img{
+    width:100%;
+}
+.header{
+    
+    text-align: center;
+    padding-bottom: 150px;
+}
+.work-area{
+    background-image: url(latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.footerP{
+    text-align: center;
+    color:lightslategrey;
+    padding-bottom: 40px;
+}
+.headerP{
+    text-align: center;
+}
+#footerP{
+    color: dimgray;
+    padding-bottom: 0;
+}
+#button-footer{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,pink,deeppink);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    padding: 40px 80px;
+    display: block;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+
+}
+.footer{
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+}
+#footer{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 200px;
+}
